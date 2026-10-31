@@ -88,10 +88,10 @@ I design and edit video. My main style is **minimalism and aesthetic**: clean co
 
 <i>When the Sea's tide come by,<br>
 That's when we go high, <br>
-with our pride,<br>
-but the tide doesnt stay high<br>
-it have to go down to sea.<br>
-But you must't desea.</i>
+with our pride;<br>
+but the tide doesnt stay high,<br>
+it have to go down to sea,<br>
+But you must not desea.</i>
 
 <sub>just a bit of wisdom from my side - shuyona·</sub>
 
